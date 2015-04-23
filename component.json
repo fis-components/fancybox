@@ -1,0 +1,10 @@
+{
+    "repos": "https://github.com/fancyapps/fancyBox",
+    "version": "v2.1.5",
+    "description": "fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages. http://fancyapps.com/fancybox/",
+    "name": "fancybox",
+    "main": "jquery.fancybox.js",
+    "dependencies": [
+        "jquery@>=1.7.0"
+    ]
+}
